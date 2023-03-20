@@ -23,6 +23,15 @@ class JavaLanguage(ProgrammingLanguage):
     @staticmethod
     def get_file_extension():
         return '.java'
+    
+    
+class JavaScriptLanguage(ProgrammingLanguage):
+    def __init__(self):
+        super().__init__('JavaScript')
+
+    @staticmethod
+    def get_file_extension():
+        return '.js'
 
 
 class CLanguage(ProgrammingLanguage):
