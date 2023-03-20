@@ -5,11 +5,11 @@ The capstone project involves developing a tool that can analyze code snippets a
 
 Assessment Criteria:
 
-Encapsulation: The student should demonstrate their understanding of encapsulation by defining classes with appropriate access modifiers for methods and attributes. The student should also demonstrate their ability to create objects and use instance variables.
-Inheritance: The student should demonstrate their understanding of inheritance by creating classes that inherit from other classes and make use of inherited methods and attributes. The student should also demonstrate their ability to override methods in the subclass.
-Polymorphism: The student should demonstrate their understanding of polymorphism by implementing methods that can accept parameters of different types or behave differently depending on the context in which they are called. The student should also demonstrate their ability to use method overloading and method overriding.
-Abstraction: The student should demonstrate their ability to use abstraction to simplify complex code by defining interfaces or abstract classes. The student should also demonstrate their understanding of how to implement abstraction in Python using abstract base classes.
-Design Patterns: The student should demonstrate their ability to apply OOP design patterns such as Factory, Singleton, and Observer in their code to solve specific problems. The student should also demonstrate their understanding of how to implement these patterns in Python.
+1. Encapsulation: The student should demonstrate their understanding of encapsulation by defining classes with appropriate access modifiers for methods and attributes. The student should also demonstrate their ability to create objects and use instance variables.
+2. Inheritance: The student should demonstrate their understanding of inheritance by creating classes that inherit from other classes and make use of inherited methods and attributes. The student should also demonstrate their ability to override methods in the subclass.
+3. Polymorphism: The student should demonstrate their understanding of polymorphism by implementing methods that can accept parameters of different types or behave differently depending on the context in which they are called. The student should also demonstrate their ability to use method overloading and method overriding.
+4. Abstraction: The student should demonstrate their ability to use abstraction to simplify complex code by defining interfaces or abstract classes. The student should also demonstrate their understanding of how to implement abstraction in Python using abstract base classes.
+5. Design Patterns: The student should demonstrate their ability to apply OOP design patterns such as Factory, Singleton, and Observer in their code to solve specific problems. The student should also demonstrate their understanding of how to implement these patterns in Python.
 
 Suggested Classes and Objects for Assessment:
 
