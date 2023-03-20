@@ -13,8 +13,8 @@ Assessment Criteria:
 
 Suggested Classes and Objects for Assessment:
 
-Class: CodeSnippet Attributes: code (string), language (string) Methods: get_code(), set_code(), get_language(), set_language()
-Class: CodeSimilarityChecker Attributes: threshold (float), snippets (list of CodeSnippet objects) Methods: add_snippet(), remove_snippet(), check_similarity(), suggest_improvements()
-Class: ProgrammingLanguage Attributes: name (string), file_extension (string) Methods: get_name(), set_name(), get_file_extension(), set_file_extension()
-Object: InheritanceExample This object would include a code snippet that demonstrates inheritance in Python, along with a brief explanation of the concept and how it is used in the code.
-Object: PolymorphismExample This object would include
+- Class: CodeSnippet Attributes: code (string), language (string) Methods: get_code(), set_code(), get_language(), set_language()
+- Class: CodeSimilarityChecker Attributes: threshold (float), snippets (list of CodeSnippet objects) Methods: add_snippet(), remove_snippet(), check_similarity(), suggest_improvements()
+- Class: ProgrammingLanguage Attributes: name (string), file_extension (string) Methods: get_name(), set_name(), get_file_extension(), set_file_extension()
+- Object: InheritanceExample This object would include a code snippet that demonstrates inheritance in Python, along with a brief explanation of the concept and how it is used in the code.
+- Object: PolymorphismExample This object would include
